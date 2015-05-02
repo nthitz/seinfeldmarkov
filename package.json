@@ -1,0 +1,12 @@
+{
+  "name": "seinfeldmarkov",
+  "version": "0.0.1",
+  "description": "",
+  "main": "seinfeldmarkov.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.55.0",
+    "timequeue": "^0.2.2"
+  }
+}
